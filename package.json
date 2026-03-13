@@ -1,0 +1,18 @@
+{
+  "name": "mobile",
+  "version": "1.0.0",
+  "description": "Tela de Login funcional com 5 integrantes",
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "node backend/server.js"
+  },
+  "dependencies": {
+    "@types/react": "~19.1.10",
+    "@types/react-native": "^0.72.8",
+    "expo": "^54.0.0",
+    "react-dom": "19.2.0",
+    "react-native": "0.81.0",
+    "react-native-web": "^0.21.0",
+    "typescript": "~5.9.2"
+  }
+}
